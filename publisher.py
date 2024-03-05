@@ -3,8 +3,8 @@ import random
 import time
 
 broker_adresses = "broker.hivemq.com"
-username = "Mawan"
-password = "Scheneider01"
+username = "uname"
+password = "pw"
 
 topic = "jonathan/testing"
 
